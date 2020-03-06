@@ -101,7 +101,7 @@ docker-compose ps
 
 重新配置：
 
-- Admin => Settings => General => Root URL([http://172.16.x.xxx:9000](http://172.16.x.xxx:9000/))
+- Admin => Settings => General => Root URL(example[http://192.168.2.68:9000](http://192.168.2.68:9000/))
 
 
 
