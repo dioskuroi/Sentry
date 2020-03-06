@@ -187,7 +187,7 @@ npm install sentry-cli-binary -g
 
   `User settings => API => Auth Tokens => Create New Token` 生成 token，注意要勾选` project:write`，开启项目的写权限。
 
-  ![生成token](/Users/xujun/Documents/学习笔记/Sentry/images/生成token.png)
+  ![生成token](./images/生成token.png)
 
 
 
