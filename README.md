@@ -346,5 +346,5 @@ crontab -e # 使用 crontab 在linux实现定时任务
 # 在里面输入
 0 0 * * *  docker exec -it onpremise_web_1 sentry cleanup --days 7  && docker exec -it onpremise_postgres_1 vacuumdb -U postgres -d postgres -v -f --analyze
 ```
-
+ 
 
