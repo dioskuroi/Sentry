@@ -1,5 +1,7 @@
 # 自建 Sentry
 
+## Sentry 介绍
+
 ## 1. 安装 Docker
 
 - **Mac**
