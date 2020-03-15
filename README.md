@@ -2,6 +2,8 @@
 
 ## Sentry 介绍
 
+Sentry是一个异常日志集中收集系统，它可以捕捉到 stack trace, stack locals, preceding events和引发该异常的commit号。而当bug fix后，sentry会自动追踪上次异常是否在本次提交中复现，当出现时，再次通知该bug修复人员去处理。
+
 ## 1. 安装 Docker
 
 - **Mac**
