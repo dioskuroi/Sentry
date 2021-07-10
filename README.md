@@ -135,8 +135,8 @@ docker volume prune
 mail.backend: 'smtp' # Use dummy if you want to disable email entirely
 mail.host: 'smtp.live.com' # 输入邮箱 smtp 服务器地址
 mail.port: 587
-mail.username: 'xujun1019@hotmail.com'
-mail.password: 'paramore123'
+mail.username: 'xxx@hotmail.com'
+mail.password: 'xxxxx'
 mail.use-tls: true
 ```
 
